@@ -1,2 +1,5 @@
-# :)
+---
+layout: none
+title: :)
+---
 - ok
